@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-The goal of this project was to collaboratively create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
+This project was developed over an eight-week period in 2023 by [Team 57](https://the-collab-lab.codes/developers/) of [The Collab Lab](https://the-collab-lab.codes/). Its goal was to collaboratively create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
 
 ### How does it work?
 
