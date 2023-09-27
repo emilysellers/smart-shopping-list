@@ -10,7 +10,7 @@ This repo was forked from [Team 57's repo](https://github.com/the-collab-lab/tcl
 
 ### How does it work?
 
-As a user, you can create a new list or join an existing list with a three-word token. Then, you can enter items (e.g., “Greek yogurt” or “Paper towels”) to your list. Each time you buy the item at the store, you mark it as purchased in your list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list.
+As a user, you can create a new list or join an existing list with a three-word token. Then, you can enter items (e.g., “Greek yogurt” or “Paper towels”) to your list. Each time you buy the item at the store, you mark it as "purchased" in your list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list.
 
 ## Developers
 
