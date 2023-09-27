@@ -11,7 +11,7 @@ const firebaseConfig = {
   appId: "1:153858313777:web:32e33427b5de78e8994f10",
   measurementId: "G-5Q4K61VZ7Q"
 };
-// old config from TCL-57 team:
+// old firebaseConfig from TCL-57 team:
 // const firebaseConfig = {
 //   apiKey: "AIzaSyCp5Q7injiGTEKhPMBvq25n2CYzRegXPbQ",
 //   authDomain: "tcl-57-smart-shopping-list.firebaseapp.com",
